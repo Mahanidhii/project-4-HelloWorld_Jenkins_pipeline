@@ -23,7 +23,7 @@ test_app.py: code to test app.py file.
 4. Select Pipeline script from SCM in the pipeline section
 5. Paste the github repository url that contains all teh required files 
 6. Save the configurations
-7. Build now & visualize the console output
+7. Build now & visualize the console output.
 
 ### Output:
 ![image](https://github.com/user-attachments/assets/5231a60c-52b0-4f98-af09-aeca7b1184a5)
