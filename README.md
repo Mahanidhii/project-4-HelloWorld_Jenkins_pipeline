@@ -14,10 +14,10 @@ Learning the basics of Jenkins with the help of flask library. Creating a simple
 
 ### Steps:
 1. Building the files required:
-app.py: flask code
-requirements.txt: contains required libraries
-JenkinFile: contains commands to be run in Jenkins
-test_app.py: code to test app.py file
+app.py: flask code, 
+requirements.txt: contains required libraries, 
+JenkinFile: contains commands to be run in Jenkins, 
+test_app.py: code to test app.py file.
 2. Create a new item in Jenkins with the desired name in Pipeline item type.
 3. Select GitHub hook trigger for GITScm polling
 4. Select Pipeline script from SCM in the pipeline section
