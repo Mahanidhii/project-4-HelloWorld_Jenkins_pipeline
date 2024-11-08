@@ -1,0 +1,21 @@
+# Jenkins Installation and Hello World pipeline
+
+### Description
+Installing Jenkins and creating a basic pipeline project for hello world project.
+
+### Git commands used:
+1. `mkdir <file_name>` to create the folder
+2. `cd <file name>` to go inside the folder
+3. `git init`, initializing folder as git repository
+5. `git add .` to add all the files into git track
+6. `git commit -m "<message>"`, it commits whatever is there in the track
+7. `git remote add origin <GitHub repository link>`, builds connection between git and github
+8. `git push --set-upstream origin master`, sends all the files from git to github.
+
+### Steps:
+1. Before installing Jenkins, install the supported JDK package(JDK-11,17,21)
+2. Install Jenkins Installer from the web
+3. Install Jenkins
+4. Configure the jenkins in the 'http://localhost:8080/' site and log in to your Jenkins
+5. Create a new item in Jenkins with the desired name in Pipeline item type
+6. 
